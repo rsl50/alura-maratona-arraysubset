@@ -27,12 +27,15 @@ The first line of input contains an integer T denoting the number of test cases.
 **Output**
 
 Print "Yes"(without quotes) if arr2 is subset of arr1.
+
 Print "No"(without quotes) if arr2 is not subset of arr1.
 
 
 **Constraints**
 1 ≤ T ≤ 100
+
 1 ≤ m,n ≤ 105
+
 1 ≤ arr1[i], arr2[j] ≤ 105
 
 
